@@ -9,4 +9,4 @@ Functions included:
 - Image Convert to grayscale
 - Image Convert to inverse color
 - Image RGB & HSI adjustment
-- Image Removing Noise (Using the median filter method)
+- Image Remove Noise (Using the median filter method)
